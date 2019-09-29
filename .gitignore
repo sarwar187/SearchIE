@@ -6,3 +6,5 @@ src/test/
 data/
 *.pkl
 *.sh
+*.json
+
